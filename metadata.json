@@ -1,0 +1,6 @@
+{
+  "name": "亞馬遜機場接送 前台樣板",
+  "description": "亞馬遜機場接送的前台純靜態純函式視覺樣板，包含首頁、地點頁（機場/港口）與自適應資訊區塊元件。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
